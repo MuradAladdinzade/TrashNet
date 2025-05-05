@@ -4,7 +4,7 @@ Fine‑tunes a ResNet18 CNN to classify six types of household waste using the T
 
 ## 🚀 Features
 
-* Preprocesses and augments 2,520 labeled images (resizing, normalization, random flips)
+* Preprocesses and augments 2,527 labeled images (resizing, normalization)
 * Fine‑tunes a pre‑trained ResNet18 in PyTorch for multiclass waste classification
 * Evaluates model performance with per‑class precision, recall, F1‑score, and overall accuracy
 
